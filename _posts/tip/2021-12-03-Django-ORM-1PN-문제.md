@@ -1,6 +1,6 @@
 ---
 title: Django ORM 1+N문제
-date: 2021-12-03 23:55:00 +0800
+date: 2021-12-03 23:00:00 +0800
 categories: [Tip, Django]
 tags: [django]
 math: true
