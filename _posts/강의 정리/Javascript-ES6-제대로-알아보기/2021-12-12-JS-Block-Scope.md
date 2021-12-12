@@ -1,5 +1,5 @@
 ---
-title: Javascript prototype
+title: Javascript block scope
 date: 2021-12-12 22:30:00 +0900
 categories: [강의정리, Javascript ES6+ 제대로 알아보기 - 초급]
 tags: [javascript]
