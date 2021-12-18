@@ -14,8 +14,8 @@ pin: true
 ---
 
 # 들어가며
-- 이 내용은 코어 자바스크립트의 강의 중 Iterable, iterator, generator를 정리한 내용 입니다.
-- [강의링크](https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EA%B0%9C%EB%85%90-javascript-flow/dashboard)
+- 이 내용은 Javascript ES6+ 제대로 알아보기 - 중급 강의 중 Iterable, iterator, generator를 정리한 내용 입니다.
+- [강의링크](https://www.inflearn.com/course/es6-2/dashboard)
 
 
 
